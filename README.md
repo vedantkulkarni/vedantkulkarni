@@ -65,10 +65,8 @@
 <br/>
 
 ## Connect with me:
-<p align="left">
-
-<a href = "https://www.linkedin.com/in/vedant-kulkarni-951770207/"><img src="https://img.icons8.com/fluent/48/000000/linkedin.png"/></a>
-<a href = "https://www.instagram.com/_vedant__kulkarni_/"><img src="https://img.icons8.com/fluent/48/000000/instagram-new.png"/></a>
+<a href = "https://www.linkedin.com/in/vedant-kulkarni-951770207/"><img src="https://cdn-icons-png.flaticon.com/512/124/124011.png" hspace="15" width="40" height="40"/></a>
+<a href = "https://www.instagram.com/_vedant__kulkarni_/"><img src="https://cdn-icons-png.flaticon.com/512/355/355975.png" width="42" height="42"/></a>
 
 
 </p>
