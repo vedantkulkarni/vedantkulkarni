@@ -34,6 +34,7 @@
     <a href="" target="_blank"><img src="https://img.icons8.com/color/48/000000/c-programming.png" width="45" height="45"/> </a>  
     <a href="https://flutter.dev/" target="_blank"><img src="https://img.icons8.com/color/48/000000/flutter.png" width="45" height="45"/> </a> 
     <a href="https://www.dartpad.dev/?null_safety=true" target="_blank"><img src="https://img.icons8.com/color/48/000000/dart.png" width="45" height="45"/> </a>
+    <a href="https://console.firebase.google.com/" target="_blank"><img src="https://img.icons8.com/color/48/000000/firebase.png" width="45" height="45"/> </a>
 
 </p>
 
