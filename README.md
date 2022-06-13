@@ -15,7 +15,7 @@
 
 - 👨‍💻 All of my projects are available at **[My Github Profile](https://github.com/vedantkulkarni)**
 
-<!-- - 📫 How to reach me **vedantkulkarni@gmail.com** -->
+- 📫 My Portfolio :  **[Vedant Kulkarni](https://vedantkulkarni.me)** 
 
 - ⚡ Fun fact **I play Badminton and go to the GYM very often**
 <hr>
